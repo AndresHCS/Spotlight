@@ -1,0 +1,256 @@
+:root{
+	--color-negro:#000;
+}
+
+header{
+	background: #1E232E;
+}
+
+
+h2{
+	color: #847639;
+	padding-bottom: 10px;
+	font-family: "Agency FB", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
+}
+
+.section{
+	background: var(--color-negro);
+	padding-bottom: 25px;
+}
+
+
+#hero h2{
+	padding-top: 30px;
+	padding-bottom: 10px;
+	font-weight: 100;
+	padding-right: 460px;
+}
+
+
+#hero .container{
+	text-align: center;
+}
+
+
+#medio h2{
+	padding-top: 100px;
+	font-weight: 100;
+}
+
+#Shaw{
+	padding-bottom: 15px;
+}
+
+#Popular{
+	padding-bottom: 20px;
+	padding-left: 90px;
+}
+
+#maleficent{
+	padding-left: 50px;
+}
+
+#SyB{
+	padding-left: 40px;
+}
+
+#abajo h2{
+	padding-left: 50px;
+	font-weight: 100;
+}
+
+.row{
+	padding-left: 50px;
+	padding-bottom: 15px;
+}
+
+footer{
+	background-color: #1E232E;
+	text-align: right;
+	padding-bottom: 15px;
+	padding-left: 120px;
+	padding-top: 15px;
+	color: #fff;
+	font-family: "Agency FB", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
+}
+
+#youtube{
+	padding-left: 8px;
+}
+
+
+
+footer #copyright{
+	font-weight: 100;
+	padding-right: 50px;
+}
+
+#youtube, #twitter, #copyright{
+	vertical-align: middle;
+	display: inline;
+}
+
+
+a:hover{
+	opacity: 70%;
+}
+
+
+
+:root{
+	--color-negro:#000;
+}
+
+header{
+	background: #1E232E;
+}
+
+.section{
+	background-color: #000000;
+	padding: 20px 0;
+}
+
+#titulo{
+	color: #847639;
+	font-family: "aliens and cows", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+h3{
+	color: #847639;
+	font-family: 'Agency FB';
+	padding-top: 30px;
+	text-transform: uppercase;
+}
+
+p{
+	color: #847639;
+	font-family: 'Agency FB';
+	font-size: 20px;
+}
+
+.button{
+	background-color: #847639;
+	font-family: "aliens and cows", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
+	color: #fff;
+	border-radius: 4px;
+	padding: 12px 20px;
+	font-size: 20px;
+	width: 200px;
+	text-transform: uppercase;
+	word-spacing: 5px;
+	letter-spacing: 2px;
+}
+
+
+#mas{
+	padding-top: 20px;
+	padding-bottom: 50px;
+	padding-right: 100px;
+}
+
+footer{
+	background-color: #1E232E;
+	text-align: right;
+	padding-bottom: 15px;
+	padding-left: 120px;
+	padding-top: 15px;
+	font-family: "Agency FB", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
+}
+
+#youtube{
+	padding-left: 8px;
+}
+
+
+
+footer #copyright{
+	font-weight: 100;
+	padding-right: 50px;
+	color: #fff;
+}
+
+#youtube, #twitter, #copyright{
+	vertical-align: middle;
+	display: inline;
+}
+
+a:hover{
+	opacity: 70%;
+}
+
+
+
+
+
+
+
+
+:root{
+	--color-negro:#000;
+}
+
+
+.section{
+	background: var(--color-negro);
+}
+
+.form-group{
+	font-family: "Agency FB", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
+	text-align: center;
+	
+}
+
+
+.bg-negro{
+	background: var(--color-negro);
+}
+
+#logo-log-in{
+	padding-top: 40px;
+	padding-bottom: 180px;
+	padding-right: 40px;
+}
+
+.form-group .form-control{
+	background-color: var(--color-negro);
+	border-bottom-color: #fff;
+	border-top-color: var(--color-negro);
+	border-left-color: var(--color-negro);
+	border-right-color: var(--color-negro);
+}
+
+a:hover{
+	opacity: 70%;
+}
+
+.btn{
+	width: 200px;
+	text-transform: uppercase;
+	word-spacing: 5px;
+	letter-spacing: 2px;
+	font-size: 20px;
+}
+
+#Crear .btn{
+	color: #847639;
+	background-color: #1E232E;
+	border-color: #1E232E;
+}
+
+
+#Sesion .btn{
+	color: #000;
+	background-color: #847639;
+	border-color: #847639;
+}
+
+
+
+
+
+
+
+
+
