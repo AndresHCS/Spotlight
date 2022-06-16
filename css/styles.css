@@ -6,12 +6,10 @@ header{
 	background: #1E232E;
 }
 
-
-h2{
+.dropdown-item{
 	color: #847639;
-	padding-bottom: 10px;
-	font-family: "Agency FB", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
 }
+
 
 .section{
 	background: var(--color-negro);
@@ -24,6 +22,8 @@ h2{
 	padding-bottom: 10px;
 	font-weight: 100;
 	padding-right: 460px;
+	color: #847639;
+	font-family: "Agency FB", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
 }
 
 
@@ -35,6 +35,8 @@ h2{
 #medio h2{
 	padding-top: 100px;
 	font-weight: 100;
+	color: #847639;
+	font-family: "Agency FB", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
 }
 
 #Shaw{
@@ -57,6 +59,8 @@ h2{
 #abajo h2{
 	padding-left: 50px;
 	font-weight: 100;
+	color: #847639;
+	font-family: "Agency FB", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
 }
 
 .row{
@@ -184,6 +188,236 @@ a:hover{
 
 
 
+:root{
+	--bg-negro:#000;
+	
+}
+body{
+	background-color: #000;
+}
+
+
+body h1{
+	padding: 50px 80px;
+	letter-spacing: 3px;
+	color: #847639;
+	font-family:'aliens and cows';
+}
+
+#joker img{
+	float: right;
+}
+
+#joker p{
+	font-family:"Agency FB";
+	color: #847639;
+}
+
+#joker h3{
+	font-family:'aliens and cows';
+}
+
+
+
+#rhapsody img{
+	float: right;
+}
+
+#rhapsody p{
+	font-family:"Agency FB";
+	color: #847639;
+}
+
+#rhapsody h3{
+	font-family:'aliens and cows';
+}
+
+#enigma img{
+	float: right;
+}
+
+#enigma p{
+	font-family:"Agency FB";
+	color: #847639;
+}
+
+#enigma h3{
+	font-family:'aliens and cows';
+}
+
+#navajas img{
+	float: right;
+}
+
+#navajas p{
+	font-family:"Agency FB";
+	color: #847639;
+}
+
+#navajas h3{
+	font-family:'aliens and cows';
+}
+
+#sueno img{
+	float: right;
+}
+
+#sueno p{
+	font-family:"Agency FB";
+	color: #847639;
+}
+
+#sueno h3{
+	font-family:'aliens and cows';
+}
+
+#pasion img{
+	float: right;
+}
+
+#pasion p{
+	font-family:"Agency FB";
+	color: #847639;
+}
+
+#pasion h3{
+	font-family:'aliens and cows';
+}
+
+footer{
+	background-color:#1E232E;
+	padding: 10px 0px;
+	text-align: right;
+	
+}
+
+footer p{
+	color: #fff;
+	font-family: "Agency FB";
+}
+
+
+:root{
+	--bg-negro:#000;
+	
+}
+body{
+	background-color: #000;
+}
+
+
+body h1{
+	padding: 100px 100px;
+	letter-spacing: 3px;
+	color: #847639;
+	font-family:'aliens and cows';
+}
+
+
+
+#chip img{
+	float: right;
+}
+
+#chip p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+#chip h3{
+	font-family:'aliens and cows';
+}
+
+#sonic img{
+	float: right;
+}
+
+#sonic p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+#sonic h3{
+	font-family: "aliens and cows"
+}
+
+#caza img{
+	float: right;
+}
+
+#caza h3{
+	font-family: "aliens and cows";
+}
+
+#caza p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+#doctor img{
+	float: right;
+}
+
+#doctor h3{
+	font-family: "aliens and cows";
+}
+
+#doctor p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+#top img{
+	float: right;
+}
+
+#top h3{
+	font-family: "aliens and cows";
+}
+
+#top p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+#batman img{
+	float: right;
+}
+
+#batman h3{
+	font-family: "aliens and cows";
+}
+
+#batman p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+footer{
+	background-color:#1E232E;
+	padding: 10px 0px;
+	text-align: right;
+	
+}
+
+footer p{
+	color: #fff;
+	font-family: "Agency FB";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -245,6 +479,102 @@ a:hover{
 	background-color: #847639;
 	border-color: #847639;
 }
+
+
+
+#score{
+	background-image: url("../img/tom_avion.jpg");
+	background-position: center;
+	background-size: cover;
+	font-family: "Agency FB", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
+	color: #fff;
+}
+
+.bg-opacity{
+	background-color: rgba(0,0,0,0.30)
+}
+
+#score h4,h2,p{
+	font-family: "Agency FB", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
+	color: #fff;
+	padding: 0;
+	margin: 1;
+}
+
+#info{
+	padding-top: 5%;
+	padding-left: 5%;
+}
+
+#botones{
+	padding-top: 5%;
+}
+
+
+#botones .container{
+	text-align: center;
+}
+
+#botones .btn-dark{
+	width: 80px;
+}
+
+#botones .btn-light{
+	font-size: 15px;
+	word-spacing: 1px;
+	padding: 0;
+	background-color: #1E232E;
+	color: #fff;
+	border-color: #1E232E;
+	width: 110px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
