@@ -408,6 +408,119 @@ footer p{
 
 
 
+:root{
+	--bg-negro:#000;
+	
+}
+body{
+	background-color: #000;
+}
+
+
+
+body h1{
+	padding: 100px 100px;
+	letter-spacing: 3px;
+	color: #847639;
+	font-family:'aliens and cows';
+}
+
+
+#oscura img{
+	float: right;
+	max-height: 300px;
+}
+
+#oscura p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+#oscura h3{
+	font-family:'aliens and cows';
+}
+
+#old img{
+	float: right;
+	max-height: 300px;
+}
+
+#old p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+#old h3{
+	font-family: "aliens and cows"
+}
+
+#diablo img{
+	float: right;
+	max-height: 300px;
+}
+
+#diablo h3{
+	font-family: "aliens and cows";
+}
+
+#diablo p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+#dont img{
+	float: right;
+	max-height: 300px;
+}
+
+#dont h3{
+	font-family: "aliens and cows";
+}
+
+#dont p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+#kills img{
+	float: right;
+	max-height: 300px;
+}
+
+#kills h3{
+	font-family: "aliens and cows";
+}
+
+#kills p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+#us img{
+	float: right;
+	max-height: 300px;
+}
+
+#us h3{
+	font-family: "aliens and cows";
+}
+
+#us p{
+	font-family: "Agency FB";
+	color: #847639;
+}
+
+footer{
+	background-color:#1E232E;
+	padding: 10px 0px;
+	text-align: right;
+	
+}
+
+footer p{
+	color: #fff;
+	font-family: "Agency FB";
+}
 
 
 
@@ -444,6 +557,12 @@ footer p{
 #logo-log-in{
 	padding-top: 40px;
 	padding-bottom: 180px;
+	padding-right: 40px;
+}
+
+#logo-cuenta{
+	padding-top: 40px;
+	padding-bottom: 80px;
 	padding-right: 40px;
 }
 
@@ -501,6 +620,10 @@ a:hover{
 	margin: 1;
 }
 
+#score .imagen{
+	padding-top: 20px;
+}
+
 #info{
 	padding-top: 5%;
 	padding-left: 5%;
@@ -528,6 +651,106 @@ a:hover{
 	border-color: #1E232E;
 	width: 110px;
 }
+
+#trailer{
+	padding-top: 80px;
+}
+
+#trailer h1{
+	padding: 0;
+	display: inline;
+}
+
+#Similares h2{
+	text-align: center;
+	color: #847639;
+	font-family:'aliens and cows';
+}
+
+:root{
+	--color-negro:#000;
+}
+
+header{
+	background: #1E232E;
+}
+
+body{
+	background-color: #000000;
+}
+
+#top_gun{
+	color: #fff;
+	margin: 60px 0;
+}
+
+#top_gun h3{
+	font-family: 'Agency FB';
+	text-transform: uppercase;
+	margin-top: 10px;
+	color: #fff;
+}
+
+#top_gun .topgun{
+	width: 160px;
+}
+
+#top_gun .btn-gold{
+	font-family: 'Agency FB';
+	background-color: #847639;
+	padding: 10px 10px;
+	border-radius: 4px;
+	margin-top: 22px;
+	font-size: 40px;
+	color: #fff;
+}
+
+#resenas_de_usuarios h2{
+	font-family: "aliens and cows", "Agenda-Light", "Avenir LT Std 35 Light", "Bebas Neue";
+	color: #847639;
+	margin: 20px 0;
+	font-size: 40px;
+}
+
+#resena img{
+	border: 2px solid #847639;
+	border-radius: 20px;
+	margin: 8px 0;
+}
+
+#resena h5{
+	display: inline;
+	padding-left: 10px;
+}
+
+#resena{
+	font-family: 'Agency FB';
+	background-color: #11151E;
+	color: #fff;
+	padding: 20px 10px;
+	text-align: center;
+}
+
+#resena p{
+	color: #fff;
+	font-family: 'Agency FB';
+	font-size: 20px;
+}
+
+.resena_individual{
+	padding: 20px 30px;
+	text-align: start;
+}
+.btn-gold2{
+	font-family: 'Agency FB';
+	background-color: #847639;
+	padding: 10px 46px;
+	border-radius: 4px;
+	margin: 22px 0;
+	font-size: 20px;
+	color: #fff;
+}
+
 
 
 
